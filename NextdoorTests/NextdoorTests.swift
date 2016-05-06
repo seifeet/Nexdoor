@@ -2,7 +2,7 @@
 //  NextdoorTests.swift
 //  NextdoorTests
 //
-//  Created by Sei Flavius on 5/4/16.
+//  Created by AT on 5/4/16.
 //  Copyright © 2016 AT. All rights reserved.
 //
 
